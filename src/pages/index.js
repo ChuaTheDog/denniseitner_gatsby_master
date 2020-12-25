@@ -1,15 +1,11 @@
-import React from 'react';
-import styled from 'styled-components';
-import Intro from '../components/Intro/Intro';
-
-import Layout from '../components/Layout/Layout';
+import React from "react"
+import styled from "styled-components"
+import Intro from "../components/Intro/Intro"
 
 export default function Home() {
-	return (
-		<>
-			<Intro>
-				<h1>Intro</h1>
-			</Intro>
-		</>
-	);
+  return (
+    <>
+      <Intro></Intro>
+    </>
+  )
 }
