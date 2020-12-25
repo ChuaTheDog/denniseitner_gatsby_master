@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="54px" height="55px" viewBox="0 0 54 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Welcome</title>
+    <defs>
+
+        <filter id="filter-2">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="About" transform="translate(-481.000000, -866.000000)">
+            <rect id="Rectangle" stroke="#979797" fill="url(#linearGradient-1)" x="0" y="0" width="1440" height="1216"></rect>
+            <g id="Group-2" transform="translate(398.000000, 810.000000)">
+                <g filter="url(#filter-2)" id="noun_linkedin_2386251">
+                    <g transform="translate(83.000000, 56.000000)">
+                        <g id="Group" fill="#000000" fill-rule="nonzero">
+                            <rect id="Rectangle" x="14.5714286" y="20.952381" width="3.42857143" height="17.4603175"></rect>
+                            <rect id="Rectangle" x="14.5714286" y="13.0952381" width="3.42857143" height="3.49206349"></rect>
+                            <path d="M26.5714286,31.8650794 L26.5714286,29.6825397 C26.5714286,27.0198413 28.6714286,24.8809524 31.2857143,24.8809524 C33.9,24.8809524 36,27.0198413 36,29.6825397 L36,38.4126984 L39.4285714,38.4126984 L39.4285714,29.6825397 C39.4285714,25.0992063 35.7857143,21.3888889 31.2857143,21.3888889 C29.5285714,21.3888889 27.9,21.9563492 26.5714286,22.9166667 L26.5714286,20.952381 L23.1428571,20.952381 L23.1428571,29.6825397 L23.1428571,31.8650794 L23.1428571,38.4126984 L26.5714286,38.4126984 L26.5714286,31.8650794 Z" id="Path"></path>
+                            <path d="M54,0 L0,0 L0,55 L54,55 L54,0 Z M50.5714286,51.5079365 L3.42857143,51.5079365 L3.42857143,3.49206349 L50.5714286,3.49206349 L50.5714286,51.5079365 Z" id="Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="99px" height="52px" viewBox="0 0 99 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+   
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="About" transform="translate(-586.000000, -869.000000)">
+            <rect id="Rectangle" stroke="#979797" x="0" y="0" width="1440" height="1216"></rect>
+            <g id="Group-2" transform="translate(398.000000, 810.000000)">
+                <g filter="url(#filter-2)" id="noun_stream-music_1639109">
+                    <g transform="translate(188.000000, 59.000000)">
+                        <g id="Group" fill="#000000" fill-rule="nonzero">
+                            <path d="M5.3,27.1 C3.8,27.1 2.4,26.5 1.4,25.3 C-0.6,23.1 -0.4,19.8 1.8,17.8 C27.9,-5.8 70.2,-5.8 96.3,17.8 C98.5,19.8 98.6,23.1 96.7,25.3 C94.7,27.5 91.4,27.6 89.2,25.7 C67.1,5.7 31.1,5.7 9,25.7 C7.9,26.6 6.6,27.1 5.3,27.1 Z" id="Path"></path>
+                            <path d="M17.3,39 C15.8,39 14.3,38.4 13.3,37.2 C11.4,35 11.6,31.6 13.8,29.7 C33.2,12.8 64.8,12.8 84.3,29.7 C86.5,31.6 86.8,35 84.8,37.2 C82.9,39.4 79.5,39.7 77.3,37.7 C61.7,24.2 36.4,24.2 20.8,37.7 C19.7,38.6 18.5,39 17.3,39 Z" id="Path"></path>
+                            <path d="M68.8,51 C67.6,51 66.5,50.6 65.5,49.9 C56.6,42.8 41.4,42.8 32.5,49.9 C30.2,51.7 26.9,51.3 25,49 C23.2,46.7 23.6,43.4 25.9,41.5 C38.9,31.3 59.1,31.3 72.1,41.5 C74.4,43.3 74.8,46.7 73,49 C71.9,50.3 70.4,51 68.8,51 Z" id="Path"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

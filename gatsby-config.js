@@ -1,3 +1,4 @@
+const path = require('path');
 /**
  * Configure your Gatsby site with this file.
  *
@@ -5,6 +6,49 @@
  */
 
 module.exports = {
-  /* Your site config here */
-  plugins: [],
-}
+	siteMetadata: {
+		title: `Dennis Eitner`,
+		siteUrl: 'https://denniseitner.ch',
+		description: 'Livin la vida loca',
+	},
+	/* Your site config here */
+	plugins: [
+		'gatsby-plugin-react-helmet',
+		'gatsby-plugin-styled-components',
+		`gatsby-plugin-sass`,
+		`gatsby-transformer-sharp`,
+		`gatsby-plugin-sharp`,
+
+		{
+			resolve: `gatsby-plugin-mdx`,
+			options: {
+				extensions: [`.mdx`, `.md`],
+				gatsbyRemarkPlugins: [
+					{
+						resolve: `gatsby-remark-images`,
+						options: {
+							maxWidth: 590,
+						},
+					},
+				],
+				plugins: [
+					{
+						resolve: `gatsby-remark-images`,
+						options: {
+							maxWidth: 590,
+						},
+					},
+				],
+			},
+		},
+
+		{
+			resolve: `gatsby-source-filesystem`,
+			options: {
+				name: `src`,
+				path: `${__dirname}/posts`,
+				name: `posts`,
+			},
+		},
+	],
+};

@@ -1,0 +1,29 @@
+.sidebar{
+  font-family: Pacifico;
+  font-size: 3rem;
+  background-image: linear-gradient(221deg, #FDD400 0%, #FFA718 100%);
+  box-shadow: 0 14px 27px 9px rgba(0,0,0,0.50);
+  border-radius: 8px 8px 0 8px 8px;
+  width: 20vw;
+  display: flex;
+  justify-content: center;
+  padding-top: 5vh;
+  position: fixed;
+  top: 0; 
+}
+.bm-menu-wrap {
+  position: fixed;
+  height: 100%;
+}
+
+/* Individual item */
+.bm-item {
+  display: inline-block;
+}
+
+/* Styling of overlay */
+.bm-overlay {
+  background: rgba(0, 0, 0, 0.3);
+}
+
+

@@ -1,0 +1,32 @@
+html, body {   
+    margin:0;
+    padding:0;
+    height:100%;
+    background-color: #220F61;
+    background: linear-gradient(to bottom right, #9779BE, #58309E,#330D5A, #1E0333 );
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white; 
+}
+
+
+
+::selection {
+    background: #FFD400; /* WebKit/Blink Browsers */
+    color: #fff;
+  }
+  ::-moz-selection {
+    background: #FFD400; /* Gecko Browsers */
+    color: #fff;
+
+  }
+
+
+  hr{
+    margin: 5rem 0
+  }
+
+ .content{
+   margin-bottom: 50vh;
+ }
